@@ -1,0 +1,6 @@
+chatgpt
+solve
+save
+delete
+delete_all
+show
