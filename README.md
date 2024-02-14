@@ -1,5 +1,12 @@
 # DiscordCalculator
-Um bot de Discord que funciona como calculadora. Ele é capaz de resolver expressões matemáticas e equações usando diversos tipos de funções e variáveis, além de permitir conversas com o chat GPT.<br><br>
+
+## Description
+A Discord Bot that works like a calculator, solving mathematical expressions, equations and take answers from Chat GPT.
+OBSERVATION: this project is entirely in portuguese.
+
+## Descrição
+Um Discord Bot que funciona como uma calculadora, capaz de resolver expressões matemáticas, equações e colher respostas do Chat GPT.
+
 Esse bot foi inspirado no vídeo do canal freeCodeCamp, disponível no seguinte link: https://youtu.be/SPTfmiYiuok.
 
 ## Arquivos
@@ -30,10 +37,10 @@ O bot irá retornar "= 1.5".<br><br>
 ### Chat GPT
 O bot também é capaz de conversar com o chat GPT. Para isso, é preciso digitar a sua API Key no campo indicado do código (na linha 13 do main.py). Para obtê-la, basta criar uma conta no site do OpenAI (https://openai.com/). Existe uma amostra grátis; entretanto, após alguns usos, será necessário pagar (se você utilizar bem pouco o bot, provavelmente não terá que se preocupar com isso).
 
-### Outras questões
+## Outras questões
 Questões sobre como o bot é integrado ao Discord e como mantê-lo rodando num servidor estão muito bem explicadas no vídeo mencionado o começo desse arquivo. Entretanto, infelizmente não há legenda em português no vídeo, apenas em inglês.
 
-### Cuidados
+## Cuidados
 De maneira geral, o bot é extremamente preciso para resolver equações/expressões simples. Entretanto, ele pode ter erros de precisão com equações mais complexas (que envolvam exponenciais e derivadas, por exemplo) e com valores muito altos (devido às limitações da própria linguagem Python). Sendo assim, verifique as tolerâncias de erro e as limitações das funções antes de utilizá-las.<br><br>
 Além disso, obviamente, o próprio chatGPT não é uma fonte confiável de informações, então não considere todas suas respostas como verdade.
 
