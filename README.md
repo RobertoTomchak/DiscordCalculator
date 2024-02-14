@@ -2,6 +2,7 @@
 
 ## Description
 A Discord Bot that works like a calculator, solving mathematical expressions, equations and take answers from Chat GPT.
+
 OBSERVATION: this project is entirely in portuguese.
 
 ## Descrição
